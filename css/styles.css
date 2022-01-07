@@ -226,10 +226,16 @@ ol{
     list-style-type: none;
 }
 
-.reviews {
-  display:flex;
+section > .content-wrap > .review{
+  display: flex;
   font-size: larger;
   justify-content: space-between;
+  align-items: center;
   padding: 30px;
+  gap:20px;
+}
+
+#review-3{
+  margin-right: 80px;
 }
 
