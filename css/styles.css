@@ -189,7 +189,15 @@ p {
 h3 a{
     text-decoration: none;
     color: #fff;
-    background: #17252a;
+    background: rgb(23, 37, 42, 1);
     border-radius: 15px;
     padding: 15px 30px;
+}
+
+h3 a:hover{
+    background: rgb(23, 37, 42, .7);
+}
+
+.content-text{
+    display: flex;
 }
