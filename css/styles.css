@@ -158,7 +158,6 @@ p {
   }
 
   #section-a .content-text {
-    columns: 2;
     column-gap: 2em;
   }
 
