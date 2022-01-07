@@ -3,8 +3,8 @@
 
 body {
   margin: 0;
-  font-family: Arial, Helvetica, sans-serif;
-  background: #333;
+  font-family: 'Times New Roman', Times, serif;
+  background: #17252a;
   color: #fff;
   font-size: 1.1em;
   line-height: 1.5;
@@ -40,7 +40,7 @@ p {
 
 .btn {
   display: inline-block;
-  background: #333;
+  background: #17252a;
   color: #fff;
   text-decoration: none;
   padding: 1em 2em;
@@ -87,7 +87,7 @@ p {
 /* Section A */
 
 #section-a {
-  background: #eaeaea;
+  background: #def2f1;
   color: #333;
   padding-bottom: 2em;
 }
@@ -106,8 +106,8 @@ p {
 
 #section-b li {
   margin-bottom: 1em;
-  background: #fff;
-  color: #333;
+  background: rgb(223, 224, 224);
+  color: #000;
 }
 
 .card-content {
@@ -117,7 +117,7 @@ p {
 /* Section C */
 
 #section-c {
-  background: #fff;
+  background: #def2f1;
   color: #333;
   padding: 2em;
 }
@@ -126,24 +126,26 @@ p {
 
 #section-d .box {
   padding: 2em;
-  color: #fff;
+  color: #def2f1;
+  background: #2b7a78;
 }
 
 #section-d .box:first-child {
-  background: #2690d4;
+  background: #14213D;
 }
 
 /* Footer */
 
 #main-footer {
   padding: 2em;
-  background: #000;
-  color: #fff;
+  background: #17252a;
+  color: #def2f1;
   text-align: center;
+  font-weight: bold;
 }
 
 #main-footer a {
-  color: #2690d4;
+  color: #3aafa9;
   text-decoration: none;
 }
 
@@ -186,8 +188,8 @@ p {
 
 h3 a{
     text-decoration: none;
-    color: rgb(0, 20, 94);
-    background: rgb(178, 247, 243);
+    color: #fff;
+    background: #17252a;
     border-radius: 15px;
     padding: 15px 30px;
 }
